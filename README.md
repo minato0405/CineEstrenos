@@ -1,2 +1,2 @@
 # CineEstrenos
-sitio para descargar películas gratis
+sitio para descargar películas gratis en HD
